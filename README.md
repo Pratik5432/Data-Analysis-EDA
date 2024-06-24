@@ -14,6 +14,13 @@ Next comes the share phase, when you present your findings to decision-makers th
 
 Last is the act phase, in which you and others in the company put the data insights into action. This could mean implementing a new business strategy, making changes to a website, or any other action that solves the initial problem. 
 
+1. Ask: business challenge, objective, or question
+2. Prepare: data generation, collection, storage, and data management
+3. Process: data cleaning and data integrity
+4. Analyze: data exploration, visualization, and analysis
+5. Share: communicating and interpreting results 
+6. Act:  putting  insights to work to solve the problem
+
 # Step 1: ASK
 
 ## Guiding questions:
